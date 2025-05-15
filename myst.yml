@@ -101,6 +101,7 @@ project:
     code: MIT
   date: 2024-09-13
   toc:
+    - file: index.md
     - file: notebook.ipynb
   exports:
     - format: pdf
