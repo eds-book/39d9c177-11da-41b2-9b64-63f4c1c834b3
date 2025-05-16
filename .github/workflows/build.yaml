@@ -5,7 +5,7 @@ on:
     branches: [main, postprint]
     paths-ignore:
       - 'README.md'
-      - 'netlify.toml'
+#      - 'netlify.toml'
 
 jobs:
   build-and-push:
