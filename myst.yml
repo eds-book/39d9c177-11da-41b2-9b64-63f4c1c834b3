@@ -117,6 +117,20 @@ project:
         - description: "Open review report for this notebook"
           type: url
           value: "https://github.com/eds-book-gallery/notebooks-reviews/issues/8"
+      references:
+        - authors:
+            - family-names: Filoche
+              given-names: Arthur
+            - family-names: Dominique
+              given-names: Peter
+            - family-names: Anastase
+              given-names: Dave
+          doi: 10.1017/eds.2022.31
+          type: article
+          scope: "Reproduced paper as part of the 2023 Climate Informatics Reproducibility Challenge."
+          title: "Deep prior in variational assimilation to estimate an ocean circulation without explicit regularization"
+          journal: "Environmental Data Science journal"
+          year: 2022
   bibliography:
     - references.bib
 
