@@ -12,7 +12,7 @@ project:
       name: Mukulika Pahari
       corresponding: true
       email: mukulikapahari@gmail.com
-      url: https://github.com/Mukulikaa
+      github: Mukulikaa
       roles:
         - Investigation
         - Software
@@ -21,7 +21,7 @@ project:
         - mumbai
     - id: rbhoir
       name: Rutika Bhoir
-      url: https://github.com/Rutika-16
+      github: Rutika-16
       roles:
         - Investigation
         - Software
@@ -32,7 +32,7 @@ project:
     - id: todaka
       name: Tina Odaka
       orcid: 0000-0002-1500-0156
-      url: https://github.com/tinaok
+      github: tinaok
       roles:
         - Writing – review & editing
       affiliations:
@@ -40,7 +40,7 @@ project:
     - id: carnold
       name: Caroline Arnold
       orcid: 0000-0002-9458-1517
-      url: https://github.com/crlna16
+      github: crlna16
       roles:
         - Writing – review & editing
       affiliations:
@@ -48,7 +48,7 @@ project:
     - id: ppelucchi
       name: Paolo Pelucchi
       orcid: 0009-0005-1910-2327
-      url: https://github.com/crlna16
+      github: crlna16
       roles:
         - Writing – review & editing
       affiliations:
@@ -57,7 +57,7 @@ project:
     - id: acoca
       name: Alejandro Coca-Castro
       orcid: 0000-0002-9264-1539
-      url: https://github.com/acocac
+      github: acocac
       roles:
         - Writing – review & editing
       affiliations:
