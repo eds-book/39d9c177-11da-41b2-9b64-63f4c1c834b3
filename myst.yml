@@ -121,10 +121,10 @@ project:
         - authors:
             - family-names: Filoche
               given-names: Arthur
-            - family-names: Dominique
-              given-names: Peter
-            - family-names: Anastase
-              given-names: Dave
+            - family-names: Béréziat
+              given-names: Dominique
+            - family-names: Charantonis
+              given-names: Anastase
           doi: 10.1017/eds.2022.31
           type: article
           scope: "Reproduced paper as part of the 2023 Climate Informatics Reproducibility Challenge."

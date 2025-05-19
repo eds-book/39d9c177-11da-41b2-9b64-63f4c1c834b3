@@ -38,10 +38,10 @@ references:
   - authors:
       - family-names: Filoche
         given-names: Arthur
-      - family-names: Dominique
-        given-names: Peter
-      - family-names: Anastase
-        given-names: Dave
+      - family-names: Béréziat
+        given-names: Dominique
+      - family-names: Charantonis
+        given-names: Anastase
     doi: 10.1017/eds.2022.31
     type: article
     scope: >-
