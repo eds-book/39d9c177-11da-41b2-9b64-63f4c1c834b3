@@ -13,21 +13,19 @@ authors:
     given-names: Mukulika
     affiliation: University of Mumbai
     email: mukulikapahari@gmail.com
-    website: https://github.com/Mukulikaa
   - family-names: Bhoir
     given-names: Rutika
     affiliation: University of Mumbai
-    website: https://github.com/Rutika-16
 date-released: '2024-09-13'
 contact:
   - family-names: Pahari
     given-names: Mukulika
     affiliation: University of Mumbai
     email: mukulikapahari@gmail.com
-    website: https://github.com/Mukulikaa
 identifiers:
-  - type: doi
-    value: 10.5281/zenodo.8339298
+  - description: Open review report for this notebook
+    type: url
+    value: https://github.com/eds-book-gallery/notebooks-reviews/issues/8
 keywords:
   - Oceans
   - Modelling
@@ -36,5 +34,23 @@ keywords:
 license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/39d9c177-11da-41b2-9b64-63f4c1c834b3
+references:
+  - authors:
+      - family-names: Filoche
+        given-names: Arthur
+      - family-names: Dominique
+        given-names: Peter
+      - family-names: Anastase
+        given-names: Dave
+    doi: 10.1017/eds.2022.31
+    type: article
+    scope: >-
+      Reproduced paper as part of the 2023 Climate Informatics Reproducibility
+      Challenge.
+    title: >-
+      Deep prior in variational assimilation to estimate an ocean circulation
+      without explicit regularization
+    journal: Environmental Data Science journal
+    year: 2022
 type: software
-version: v2.0.0
+version: v2025.05.0
