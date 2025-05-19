@@ -116,7 +116,7 @@ project:
       identifiers:
         - description: "Open review report for this notebook"
           type: url
-          value: "https://github.com/eds-book-gallery/notebooks-reviews/issues/8"
+          value: "https://github.com/eds-book/notebooks-reviews/issues/8"
       references:
         - authors:
             - family-names: Filoche
